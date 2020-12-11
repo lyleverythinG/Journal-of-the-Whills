@@ -10,7 +10,7 @@
 ```
 This is a change I made on GitHub.- LyleverythinG
 
-**[GREEDO]**  Going somewhere, Solo?
+**[GREEDO]**  Going somewhere, Double?
 
 **[HAN]**  Yes, Greedo. As a matter of fact, I
 was just going to see your boss.
